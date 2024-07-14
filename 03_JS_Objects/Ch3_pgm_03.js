@@ -10,7 +10,13 @@ book = {
 
 console.log(book);
 
+book2 = {
+    title : "Be Loved",
+    author : "Emma mia",
+    published : 1937
+};
 
+console.log(book2)
 
 /* Further Adventures
  *
