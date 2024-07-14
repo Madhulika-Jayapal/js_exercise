@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  li {
+    margin-bottom: 8px; /* Spacing between each country */
+    padding: 10px; /* Padding around each country item */
+    background-color: #f0f0f0; /* Background color */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for a lifted effect */
+  }
+  
+  li:hover {
+    background-color: #e0e0e0; /* Darker background color on hover */
+    cursor: pointer; /* Pointer cursor on hover */
+  }
