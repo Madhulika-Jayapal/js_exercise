@@ -8,6 +8,13 @@ bookAuthor = "J. R. R. Tolkien";
 
 console.log(bookTitle + " by " + bookAuthor);
 
+var bookTitle2 = "Ulysses by James Joyce"
+var bookAuthor2 = "james joyee"
+console.log(bookTitle + " by " + bookAuthor2);
+
+var bookTitle3 = " Lolita by Vladimir Nabokov"
+var bookAuthor3 = "veadimie"
+console.log(bookTitle + " by " + bookAuthor3);
 
 
 /* Further Adventures
