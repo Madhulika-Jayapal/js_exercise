@@ -2,6 +2,7 @@
 
 var book1;
 var book2;
+var book3;
 
 book1 = {
     title : "The Hobbit",
@@ -13,7 +14,10 @@ book2 = {
 	author : "Philip Pullman"
 };
 
-
+book3 = {
+	title: "Be Loved",
+        author: "Emma Mia"
+};
 
 /* Further Adventures
  *
